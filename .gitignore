@@ -3,3 +3,4 @@ __pycache__
 /models/ldm
 /.idea
 /logs/txt2img_logs.csv
+/logs/img2img_logs.csv
